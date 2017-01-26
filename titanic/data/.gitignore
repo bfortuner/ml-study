@@ -1,0 +1,5 @@
+# Ignore everything in this directory (to avoid uploading big data sets to GitHub
+*
+
+# Except this file
+!.gitignore
