@@ -37,6 +37,12 @@ Tutorial on Scipy
 
 Tutorial on Tensorflow
 
+
+#### Matplotlib
+
+* [3D Plots](http://matplotlib.org/mpl_toolkits/mplot3d/tutorial.html)
+
+
 #### Tmux
 
 * [Wiki on Tmux](http://wiki.fast.ai/index.php/Tmux)
