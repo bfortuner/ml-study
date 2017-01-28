@@ -17,6 +17,7 @@ Tutorials and cheat sheets for libraries and tools
 
 #### Pandas
 
+* [Awesome Guide](https://github.com/ritchieng/pandas-guides)
 * [My Cheatsheet](https://github.com/bfortuner/kaggle-submissions/blob/master/tutorials/titanic/PandasQuickstart.ipynb)
 * [Quickstart](http://pandas.pydata.org/pandas-docs/stable/10min.html)
 * [Plotting](http://pbpython.com/simple-graphing-pandas.html)
@@ -25,9 +26,9 @@ Tutorials and cheat sheets for libraries and tools
 
 Tutorial on Numpy
 
-#### Scipy
+#### Scikit-learn
 
-Tutorial on Scipy
+[Data School ML Basics with Scikit](https://github.com/ritchieng/machine-learning-dataschool)
 
 #### Keras
 
@@ -41,6 +42,7 @@ Tutorial on Tensorflow
 #### Matplotlib
 
 * [3D Plots](http://matplotlib.org/mpl_toolkits/mplot3d/tutorial.html)
+* [Colormaps](http://matplotlib.org/xkcd/examples/color/colormaps_reference.html)
 
 
 #### Tmux
