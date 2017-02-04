@@ -24,7 +24,7 @@ Tutorials and cheat sheets for libraries and tools
 
 #### Numpy
 
-Tutorial on Numpy
+* [Python Data Science (Numpy, Matplotlib, Pandas)](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 #### Scikit-learn
 
